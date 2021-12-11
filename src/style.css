@@ -1,1 +1,24 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 700px;
+  margin: 0 auto;
+  padding: 380px 0;
+}
+
+p {
+  font-size: 35px;
+  font-weight: 300;
+}
+
+#excuse {
+  font-weight: 700;
+  color: crimson;
+  font-size: 28px;
+}
